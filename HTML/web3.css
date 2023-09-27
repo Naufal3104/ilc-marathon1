@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: auto;
+}
+
+.right-content{
+    background-color: #0077ff;
+    border-style: outset ;
+    border-width: 2px;
+    border-color: white;
+    width: 30%;
+    flex: 0 0 auto;
+    float: right;
+    padding: 15%;
+    
+}
+.left-content{
+    width: 20%;
+    background-color: white;
+    border-style: outset ;
+    border-width: 2px;
+    border-color: white;
+    flex: 0 0 auto;
+    float: left;
+    padding: 148px;
+    padding-bottom: 166px;
+}
